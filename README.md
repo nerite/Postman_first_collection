@@ -1,4 +1,4 @@
-# Postman_first_collection
+# API Testing with Postman
 
 ## Postman Beginner's Course - API Testing
 
